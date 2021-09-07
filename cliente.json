@@ -1,0 +1,20 @@
+[{
+
+        "id": 1,
+        "cedula": "135568464",
+        "apellidos": "Marcillo",
+        "nombres": "Solange",
+        "estado": "Soltera",
+        "direccion": "Las cumbres",
+        "telefono": "0987654321"
+    },
+    {
+        "id": 2,
+        "cedula": "135568476",
+        "apellidos": "Villafuerte",
+        "nombres": "Virginia",
+        "estado": "Soltera",
+        "direccion": "La aurora",
+        "telefono": "0987654321"
+    }
+]
